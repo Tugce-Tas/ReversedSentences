@@ -1,17 +1,17 @@
-﻿namespace ReversedWords;
+﻿namespace ReversedSentences;
 
 public class Reverse
 {
     public void Rvrs()
     {
         Console.Write("Enter the word to be reversed: ");
-        string word = Console.ReadLine();
+        string sentence = Console.ReadLine();
 
         string reversed = "";
 
-        for (int i = word.Length - 1; i >= 0; i--)
+        for (int i = sentence.Length - 1; i >= 0; i--)
         {
-            reversed += word[i];
+            reversed += sentence[i];
         }
 
         Console.WriteLine(reversed);

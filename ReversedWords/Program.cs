@@ -1,4 +1,4 @@
-﻿using ReversedWords;
+﻿using ReversedSentences;
 
 var reverse = new Reverse();
 
