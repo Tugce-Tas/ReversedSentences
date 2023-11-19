@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReversedWords", "ReversedWords\ReversedWords.csproj", "{C71F1BC3-8138-43F6-AD7D-39802E5B2DDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C71F1BC3-8138-43F6-AD7D-39802E5B2DDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C71F1BC3-8138-43F6-AD7D-39802E5B2DDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C71F1BC3-8138-43F6-AD7D-39802E5B2DDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C71F1BC3-8138-43F6-AD7D-39802E5B2DDD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
