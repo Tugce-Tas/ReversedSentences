@@ -4,7 +4,7 @@ public class Reverse
 {
     public void Rvrs()
     {
-        Console.Write("Enter the word to be reversed: ");
+        Console.Write("Enter the sentence to be reversed: ");
         string sentence = Console.ReadLine();
 
         string reversed = "";
